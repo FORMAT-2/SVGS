@@ -17,9 +17,3 @@
     fill="currentColor"
   />
 </svg>
-
-<style>
-  svg {
-    color: #ff0000; /* This changes the color of the SVG to red */
-  }
-</style>
